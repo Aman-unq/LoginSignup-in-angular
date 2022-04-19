@@ -1,0 +1,75 @@
+{
+  "loginUsers": [
+    {
+      "email": "test@test.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "email": "test@test.com",
+      "password": "12345",
+      "id": 3
+    }
+  ],
+  "signupUsers": [
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "name": "Aman",
+      "email": "test@test.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "name": "Hello",
+      "email": "hello@test.com",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "name": "XYZ",
+      "email": "xyz@test.com",
+      "password": "12345",
+      "id": 6
+    },
+    {
+      "name": "abc",
+      "email": "abc@test.com",
+      "password": "123455",
+      "id": 7
+    },
+    {
+      "name": "Hellooo",
+      "email": "hello1@test.com",
+      "password": "1234",
+      "id": 8
+    },
+    {
+      "name": "Yuva",
+      "email": "yuva@test.com",
+      "password": "12345",
+      "id": 9
+    }
+  ]
+}
